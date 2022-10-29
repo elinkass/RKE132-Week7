@@ -1,0 +1,15 @@
+/Users/elinkass/Projects/week7/ArgumentsAndParameters/bin/Debug/net6.0/ArgumentsAndParameters
+/Users/elinkass/Projects/week7/ArgumentsAndParameters/bin/Debug/net6.0/ArgumentsAndParameters.deps.json
+/Users/elinkass/Projects/week7/ArgumentsAndParameters/bin/Debug/net6.0/ArgumentsAndParameters.runtimeconfig.json
+/Users/elinkass/Projects/week7/ArgumentsAndParameters/bin/Debug/net6.0/ArgumentsAndParameters.dll
+/Users/elinkass/Projects/week7/ArgumentsAndParameters/bin/Debug/net6.0/ArgumentsAndParameters.pdb
+/Users/elinkass/Projects/week7/ArgumentsAndParameters/obj/Debug/net6.0/ArgumentsAndParameters.csproj.AssemblyReference.cache
+/Users/elinkass/Projects/week7/ArgumentsAndParameters/obj/Debug/net6.0/ArgumentsAndParameters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elinkass/Projects/week7/ArgumentsAndParameters/obj/Debug/net6.0/ArgumentsAndParameters.AssemblyInfoInputs.cache
+/Users/elinkass/Projects/week7/ArgumentsAndParameters/obj/Debug/net6.0/ArgumentsAndParameters.AssemblyInfo.cs
+/Users/elinkass/Projects/week7/ArgumentsAndParameters/obj/Debug/net6.0/ArgumentsAndParameters.csproj.CoreCompileInputs.cache
+/Users/elinkass/Projects/week7/ArgumentsAndParameters/obj/Debug/net6.0/ArgumentsAndParameters.dll
+/Users/elinkass/Projects/week7/ArgumentsAndParameters/obj/Debug/net6.0/refint/ArgumentsAndParameters.dll
+/Users/elinkass/Projects/week7/ArgumentsAndParameters/obj/Debug/net6.0/ArgumentsAndParameters.pdb
+/Users/elinkass/Projects/week7/ArgumentsAndParameters/obj/Debug/net6.0/ArgumentsAndParameters.genruntimeconfig.cache
+/Users/elinkass/Projects/week7/ArgumentsAndParameters/obj/Debug/net6.0/ref/ArgumentsAndParameters.dll

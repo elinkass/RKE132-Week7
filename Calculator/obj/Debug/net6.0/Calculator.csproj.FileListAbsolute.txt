@@ -1,0 +1,15 @@
+/Users/elinkass/Projects/week7/Calculator/obj/Debug/net6.0/Calculator.csproj.AssemblyReference.cache
+/Users/elinkass/Projects/week7/Calculator/obj/Debug/net6.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elinkass/Projects/week7/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfoInputs.cache
+/Users/elinkass/Projects/week7/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfo.cs
+/Users/elinkass/Projects/week7/Calculator/obj/Debug/net6.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/elinkass/Projects/week7/Calculator/bin/Debug/net6.0/Calculator
+/Users/elinkass/Projects/week7/Calculator/bin/Debug/net6.0/Calculator.deps.json
+/Users/elinkass/Projects/week7/Calculator/bin/Debug/net6.0/Calculator.runtimeconfig.json
+/Users/elinkass/Projects/week7/Calculator/bin/Debug/net6.0/Calculator.dll
+/Users/elinkass/Projects/week7/Calculator/bin/Debug/net6.0/Calculator.pdb
+/Users/elinkass/Projects/week7/Calculator/obj/Debug/net6.0/Calculator.dll
+/Users/elinkass/Projects/week7/Calculator/obj/Debug/net6.0/refint/Calculator.dll
+/Users/elinkass/Projects/week7/Calculator/obj/Debug/net6.0/Calculator.pdb
+/Users/elinkass/Projects/week7/Calculator/obj/Debug/net6.0/Calculator.genruntimeconfig.cache
+/Users/elinkass/Projects/week7/Calculator/obj/Debug/net6.0/ref/Calculator.dll

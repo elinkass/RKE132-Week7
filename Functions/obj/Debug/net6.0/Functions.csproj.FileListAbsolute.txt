@@ -1,0 +1,15 @@
+/Users/elinkass/Projects/week7/Functions/bin/Debug/net6.0/Functions
+/Users/elinkass/Projects/week7/Functions/bin/Debug/net6.0/Functions.deps.json
+/Users/elinkass/Projects/week7/Functions/bin/Debug/net6.0/Functions.runtimeconfig.json
+/Users/elinkass/Projects/week7/Functions/bin/Debug/net6.0/Functions.dll
+/Users/elinkass/Projects/week7/Functions/bin/Debug/net6.0/Functions.pdb
+/Users/elinkass/Projects/week7/Functions/obj/Debug/net6.0/Functions.csproj.AssemblyReference.cache
+/Users/elinkass/Projects/week7/Functions/obj/Debug/net6.0/Functions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elinkass/Projects/week7/Functions/obj/Debug/net6.0/Functions.AssemblyInfoInputs.cache
+/Users/elinkass/Projects/week7/Functions/obj/Debug/net6.0/Functions.AssemblyInfo.cs
+/Users/elinkass/Projects/week7/Functions/obj/Debug/net6.0/Functions.csproj.CoreCompileInputs.cache
+/Users/elinkass/Projects/week7/Functions/obj/Debug/net6.0/Functions.dll
+/Users/elinkass/Projects/week7/Functions/obj/Debug/net6.0/refint/Functions.dll
+/Users/elinkass/Projects/week7/Functions/obj/Debug/net6.0/Functions.pdb
+/Users/elinkass/Projects/week7/Functions/obj/Debug/net6.0/Functions.genruntimeconfig.cache
+/Users/elinkass/Projects/week7/Functions/obj/Debug/net6.0/ref/Functions.dll
